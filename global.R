@@ -11,7 +11,7 @@ module_id ='mdlKrSaleStatRptCom'
 module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
-dms_token ='75CE5B94-38F1-40F6-9B7B-9B4170C8E5F6'
+dms_token ='B3455A86-2376-4EF3-8000-39AA8B61B759'
 
 #加载数据中台的所有系统包及程序包
 tstk::import(app_id)
